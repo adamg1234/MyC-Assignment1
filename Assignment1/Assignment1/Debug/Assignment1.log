@@ -1,0 +1,12 @@
+﻿  Main.cpp
+h:\uni\oop - c++\assignment\assignment 1\assignment1\assignment1\main.cpp(22): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+h:\uni\oop - c++\assignment\assignment 1\assignment1\assignment1\flightsystem.h(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+h:\uni\oop - c++\assignment\assignment 1\assignment1\assignment1\flightsystem.h(14): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+h:\uni\oop - c++\assignment\assignment 1\assignment1\assignment1\flightsystem.h(15): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+h:\uni\oop - c++\assignment\assignment 1\assignment1\assignment1\aircraft.h(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+h:\uni\oop - c++\assignment\assignment 1\assignment1\assignment1\main.cpp(23): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+h:\uni\oop - c++\assignment\assignment 1\assignment1\assignment1\main.cpp(127): warning C4129: 'H': unrecognized character escape sequence
+h:\uni\oop - c++\assignment\assignment 1\assignment1\assignment1\main.cpp(164): warning C4129: 'H': unrecognized character escape sequence
+h:\uni\oop - c++\assignment\assignment 1\assignment1\assignment1\main.cpp(175): warning C4018: '<': signed/unsigned mismatch
+  Assignment1.vcxproj -> H:\UNI\OOP - C++\Assignment\Assignment 1\Assignment1\Debug\Assignment1.exe
+  Assignment1.vcxproj -> H:\UNI\OOP - C++\Assignment\Assignment 1\Assignment1\Debug\Assignment1.pdb (Partial PDB)

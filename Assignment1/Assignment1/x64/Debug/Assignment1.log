@@ -1,0 +1,25 @@
+﻿  Main.cpp
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\main.cpp(22): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\flightsystem.h(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\flightsystem.h(14): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\flightsystem.h(15): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\aircraft.h(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\main.cpp(23): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\main.cpp(127): warning C4129: 'H': unrecognized character escape sequence
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\main.cpp(164): warning C4129: 'H': unrecognized character escape sequence
+  FlightSystem.cpp
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\flightsystem.cpp(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\flightsystem.cpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\flightsystem.h(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\flightsystem.h(14): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\flightsystem.h(15): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\aircraft.h(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Aircraft.cpp
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\aircraft.cpp(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\aircraft.cpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\aircraft.h(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\flightsystem.cpp(166): warning C4715: 'FlightSystem::GetHeading': not all control paths return a value
+e:\uni stuff\clone folder\assignment\assignment 1\assignment1\assignment1\flightsystem.cpp(228): warning C4715: 'FlightSystem::GetAltitude': not all control paths return a value
+  Assignment1.vcxproj -> E:\Uni Stuff\Clone folder\Assignment\Assignment 1\Assignment1\x64\Debug\Assignment1.exe
+  Assignment1.vcxproj -> E:\Uni Stuff\Clone folder\Assignment\Assignment 1\Assignment1\x64\Debug\Assignment1.pdb (Partial PDB)
